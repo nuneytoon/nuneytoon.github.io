@@ -75,6 +75,6 @@ Short paid trials available for new clients.
 ---
 
 ## Contact
-**Email:** mnunemacher@gmail.com  
-**GitHub:** https://github.com/nuneytoon  
-**LinkedIn:** https://linkedin.com/in/matthew-nunemacher  
+**Email:** <a href="mailto:mnunemacher@gmail.com">mnunemacher@gmail.com</a>
+**GitHub:** [https://github.com/nuneytoon](https://github.com/nuneytoon)
+**LinkedIn:** [https://linkedin.com/in/matthew-nunemacher](https://linkedin.com/in/matthew-nunemacher)
