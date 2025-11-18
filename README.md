@@ -1,5 +1,5 @@
-# Matthew Nunemacher — Freelance Software Engineer
-Full-Stack Engineer · React · TypeScript · Next.js · Node/Nest.js
+# Matthew Nunemacher — Freelance Software & AI Engineer
+Full-Stack Engineer · AI Engineer · React · TypeScript · Next.js · Node/Nest.js
 
 I help startups and teams ship high-impact features fast.  
 Available for freelance, contract, or project-based work.
