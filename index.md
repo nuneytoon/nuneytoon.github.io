@@ -13,10 +13,10 @@ Available for freelance, contract, or project-based work.
 
 ## Core Skills
 - **Frontend:** React, TypeScript, Next.js, Tailwind  
-- **Backend:** Node.js, Nest.js, Express  
-- **Databases:** PostgreSQL, Prisma, Supabase, PlanetScale  
+- **Backend:** Node.js, Nest.js, Ruby (on Rails), C# (.NET)
+- **Databases:** PostgreSQL, Prisma, TypeORM, Supabase  
 - **DevOps / Tools:** Vercel, Docker, GitHub Actions  
-- **Integrations:** Stripe, Auth.js/NextAuth, SendGrid, 3rd-party APIs  
+- **Integrations:** Stripe, Auth.js/NextAuth, BetterAuth, SendGrid, 3rd-party APIs  
 
 ---
 
